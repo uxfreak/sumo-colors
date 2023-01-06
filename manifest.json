@@ -1,0 +1,10 @@
+{
+  "name": "sumo-colors",
+  "id": "1193070455016656134",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html"
+}
